@@ -27,3 +27,6 @@ Superstore dataset containing sales, profit, and order details.
 
 ## 📈 Business Impact
 Helps businesses identify profitable products, reduce losses, and improve decision-making using data-driven insights.
+
+## ⚠️ Note
+The Discount column in the dataset was derived from Power BI calculations and then exported to ensure consistency between the dataset and dashboard.
